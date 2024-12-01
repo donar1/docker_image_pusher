@@ -5,5 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
  "https://docker.1ms.run",
-        "https://hub.rat.dev",
-        "https://docker.1panel.live"
+ "https://hub.rat.dev",
+ "https://docker.1panel.live"
